@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_X70pro.mk
+    $(LOCAL_DIR)/twrp_X70pro.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_X70pro-user \
-    omni_X70pro-userdebug \
-    omni_X70pro-eng
+    twrp_X70pro-user \
+    twrp_X70pro-userdebug \
+    twrp_X70pro-eng
