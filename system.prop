@@ -1,0 +1,8 @@
+ro.debuggable=1
+ro.adb.secure=0
+persist.sys.usb.config=adb
+sys.usb.configfs=1
+sys.usb.config=adb,vser,gser
+sys.usb.ffs.ready=1
+ro.boot.usbcontroller=musb-hdrc
+vendor.usb.controller=musb-hdrc
